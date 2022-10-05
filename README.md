@@ -1,4 +1,7 @@
 
 The Online Resume contains Details such as:
-#Personal Details
-#Education
+1.Personal Details
+2.Education
+3.Skills
+4.Languages
+5.Contact Details
